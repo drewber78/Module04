@@ -23,7 +23,7 @@ lstTable = []
 # function to print the menu
 
 
-def MenuOfOptions():
+def menu_of_options():
     # Print menu of options
     print("""
     Menu of Options
@@ -37,7 +37,7 @@ def MenuOfOptions():
 
 while(True):
     # Call MenuOfOptions function to display menu
-    MenuOfOptions()
+    menu_of_options()
 
     # Input to strUserChoice to determine next steps
     strUserChoice = input("Which option would you like to perform? Type exit to end program (1 to 3): ")
