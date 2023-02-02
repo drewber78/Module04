@@ -21,6 +21,8 @@ lstRow = []
 lstTable = []
 
 # function to print the menu
+
+
 def MenuOfOptions():
     # Print menu of options
     print("""
@@ -31,6 +33,8 @@ def MenuOfOptions():
     """)
 
 # While loop to keep running until Option 3 is selected
+
+
 while(True):
     # Call MenuOfOptions function to display menu
     MenuOfOptions()
@@ -57,8 +61,6 @@ while(True):
                 break
             lstRow = [strItemName, strItemValue]
             lstTable += [lstRow]
-
-
 
     # Option 2 elif
     elif strUserChoice == '2':
