@@ -45,7 +45,7 @@ while(True):
     # If elif and else statements to determine actions upon user choice
     # Option 1 If
     if strUserChoice == '1':
-        print("Type in a 'Name' and Value for your Househole Items. Type 'main' and hit enter to go to main menu.")
+        print("Type in a 'Name' and Value for your Household Items. Type 'main' and hit enter to go to main menu.")
         while(True):
             # Entering items continuously
             strItemName = input("Enter a Name: ")
