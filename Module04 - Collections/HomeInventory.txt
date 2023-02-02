@@ -1,0 +1,7 @@
+Table, 100
+Chair, 50
+Desk, 150
+Table, 50
+Table, 50
+Chair, 100
+Desk, 200
