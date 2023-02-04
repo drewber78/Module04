@@ -10,6 +10,7 @@ Changelog:
 01FEB2023: Ended up coding all the way through. Added While loop under option 1 to allow user to continue inputting
             items indefinitely until 'main' is typed, taking user back to main menu. Also created function to call the
             menu of options when needed.
+04FEB2023: No change; opened code to run program to demonstrate 2nd while loop in option 1
 
 """
 

@@ -5,3 +5,6 @@ Table, 50
 Table, 50
 Chair, 100
 Desk, 200
+TV, 1000
+Kitchen Table, 500
+Kitchen Chair, 100
